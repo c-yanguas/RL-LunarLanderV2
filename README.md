@@ -21,4 +21,4 @@ Here is the [agent](https://drive.google.com/file/d/1piiHVW8Ja3MLZzxggQmD9maLHtJ
 
 Results:
 
-![Results](https://github.com/c-yanguas/RL-LunarLanderV2/blob/main/Resultados.png)
+
