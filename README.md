@@ -20,4 +20,5 @@ Hyperparameters:
 Here is the [agent](https://drive.google.com/file/d/1piiHVW8Ja3MLZzxggQmD9maLHtJjZ_d1/view?usp=sharing) class ready to be uploaded, due to its weight it is not possible to upload it directly to github.
 
 Results:
+
 ![Results](https://github.com/c-yanguas/RL-LunarLanderV2/blob/main/Resultados.png)
