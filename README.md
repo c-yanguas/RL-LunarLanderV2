@@ -23,7 +23,5 @@ Here is the [agent](https://drive.google.com/file/d/1piiHVW8Ja3MLZzxggQmD9maLHtJ
 Results:
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/c-yanguas/RL-LunarLanderV2/blob/main/Resultados.png">
+  <img width="560" height="400" src="https://github.com/c-yanguas/RL-LunarLanderV2/blob/main/Resultados.png">
 </p>
-
-![Results](https://github.com/c-yanguas/RL-LunarLanderV2/blob/main/Resultados.png)
