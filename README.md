@@ -1,7 +1,7 @@
 # RL-LunarLanderV2
 Solution to [OpenAI's LunarLander-v2](https://gym.openai.com/envs/LunarLander-v2/) problem via DQN with target network.
 
-Autors: [Carlos Golvano](https://github.com/CarlosGolvano), [Carlos Yanguas](https://github.com/c-yanguas), [Jorge Casajus](https://github.com/jogecodes).
+Authors: [Carlos Golvano](https://github.com/CarlosGolvano), [Carlos Yanguas](https://github.com/c-yanguas), [Jorge Casajus](https://github.com/jogecodes).
 
 Hyperparameters:
  - Gamma: 0.99
